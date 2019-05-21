@@ -1,0 +1,25 @@
+{
+    "name": "PresqAccident",
+    "title": "PresqAccident",
+    "description": "PresqAccident Demo Package",
+    "services": [
+        "Customizer"
+    ],
+    "state": "enabled",
+    "extensions": [
+        {
+            "name": "PresqAccident Demo Package",
+            "type": "com.ibm.customizer.ui",
+            "payload": {
+                "include-files": [
+                    "static/PresqAccident/commonTools.js",
+                    "static/PresqAccident/PresqAccident.css",
+                    "static/PresqAccident/PresqAccident.js"
+                ]
+            },
+            "path": "activities",
+            "application": "PresqAccident",
+            "state": "enabled"
+        }
+    ]
+}

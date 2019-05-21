@@ -1,0 +1,19 @@
+#activityPageNodeContainer div.dijitTitlePaneTitle span.dijitTitlePaneTextNode{font-size:24px;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer[aria-expanded="true"][entrytype="entry"]{background-color:#f7f7f7;border-radius:7px;border:1px solid #5a5a5a;margin:16px 0;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryHeader h4 span{font-size: 16px; font-weight: bold;}
+
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer[entrytype="entry"]{background-color:white;border-radius:7px;border:1px solid #5a5a5a;margin:16px 0;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter  div.nodeContainer h4 span{font-size: 16px; font-weight: bold;}
+
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryContent div.fields{background-color:#eaeaea;border:1px solid #cccccc;border-radius:4px;padding:8px 15px;margin-bottom:13px;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryContent div.fields div.field div.fieldName{padding-top:13px;word-wrap:break-word;width:225px;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryContent div.fields div.field div.fieldValue{padding-top:13px;}
+
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryContent div.description{word-wrap: break-word;font-size:14px;}
+#activityPageNodeContainer div.dijitTitlePaneContentInner div.nodeContainer div.nodeContainer div.Node.Comment{border-top:1px solid;display:inline-block !important;margin-top:15px;margin-bottom:15px;}
+#activityPageNodeContainer div.dijitTitlePaneContentInner div.nodeContainer div.nodeContainer div.Node.Comment div.description p{word-break: break-all;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryContent div.nodeChildren div.nodeContainer div.entryHeader div.entryTitleBar{font-size:15px;color:#000;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryContent div.nodeChildren div.nodeContainer div.entryFooter ul.lotusInlinelist li a{display:inline-block;border:1px solid #1a3961;padding: 5px 7px;background-color: #4178be;margin-bottom: 11px;border-radius: 3px;color: #fff;font-size: 10px;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryFooter ul.lotusInlinelist li a{display: inline-block;border: 1px solid #000000;padding: 7px 10px;background-color: #4178be;margin-bottom: 11px;border-radius: 3px;color: #fff;font-size: 12px;text-decoration: none;}
+#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryFooter ul.lotusInlinelist li a:hover,#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryFooter ul.lotusInlinelist li a:focus,#activityPageNodeContainer div.dijitTitlePaneContentOuter div.nodeContainer div.entryFooter ul.lotusInlinelist li a:active{background-color:#4d8dde;}
+#activityPageNodeContainer .list .nodeContainer{padding:10px 0;}

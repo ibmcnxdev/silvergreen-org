@@ -1,0 +1,25 @@
+.lotusui30dojo .dijitDialogPaneContent{
+	background: white!important
+}
+.scloud3 .dijitDialog{
+	background: white!important
+}
+.lotusui30dojo .dijitDialogTitleBar{
+	display: inherit!important
+}
+.lotusui30dojo .dijitDialogPaneActionBar{
+	padding: 10px!important
+}
+.lotusui30dojo .dijitDialogTitleBar{
+	background: #325c80!important
+}
+.lotusui30dojo .dijitDialogTitle{
+	background: #325c80!important
+}
+.lotusui30dojo .dijitDialogPaneContent{
+	padding-left:5px!important;
+	padding-right :5px!important
+}
+.dijitButtonNode{
+	border:none!important;
+}

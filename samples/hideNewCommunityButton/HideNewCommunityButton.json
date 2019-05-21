@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "Hide New Community button",
+      "payload": {
+        "include-files": [
+          "samples/hideNewCommunityButton/hideNewCommunityButton.js"
+        ]
+      },
+      "name": "Hide New Community button extension",
+      "type": "com.ibm.muse.ui"
+    }
+  ],
+  "name": "Hide New Community button",
+  "description": "Hide New Community button",
+  "services": [
+    "Muse"
+  ],
+  "title": "Hide New Community button"
+}

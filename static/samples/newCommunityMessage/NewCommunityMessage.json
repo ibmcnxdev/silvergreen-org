@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "New Community Message Sample",
+      "payload": {
+        "include-files": [
+          "samples/newCommunityMessage/newCommunityMessage.user.js"
+        ]
+      },
+      "name": "New Community message Extension",
+      "type": "com.ibm.muse.ui"
+    }
+  ],
+  "name": "New Community Message Sample",
+  "description": "New Community message Customization Sample",
+  "services": [
+    "Muse"
+  ],
+  "title": "New Community message  Customization Sample"
+}

@@ -1,0 +1,21 @@
+{
+    "extensions": [
+      {
+        "path": "global",
+        "application": "ZORRO Theme Customization",
+        "payload": {
+          "include-files": [
+            "zorro/zorro-theme.js"
+          ]
+        },
+        "name": "ZORRO Theme Customization Extension",
+        "type": "com.ibm.customizer.ui"
+      }
+    ],
+    "name": "ZORRO Theme Customization",
+    "description": "ZORRO Theme Customization",
+    "services": [
+      "Customizer"
+    ],
+    "title": "ZORRO Theme Customization"
+  }

@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "Flip Card Sample",
+      "payload": {
+        "include-files": [
+          "samples/flipCard/commListCardsFlipStyle.user.js"
+        ]
+      },
+      "name": "commListCardsFlipStyle Extension",
+      "type": "com.ibm.customizer.ui"
+    }
+  ],
+  "name": "Flip Card Sample",
+  "description": "FlipCard Customization Sample",
+  "services": [
+    "Customizer"
+  ],
+  "title": "FlipCard Customization Sample"
+}

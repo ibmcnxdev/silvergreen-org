@@ -1,0 +1,24 @@
+{
+  "extensions": [
+	{
+      "application": "[Your Name] News River Sectioned Sample",
+      "payload": {
+        "match": {
+		  "user-name": "[Your Name]",
+          "url": "homepage"
+        },
+        "include-files": [
+          "samples/newsRiver/newsRiverSectioned.user.js"
+        ]
+      },
+      "name": "[Your Name] News River Sectioned Extension",
+      "type": "com.ibm.customizer.ui"
+    }
+  ],
+  "name": "[Your Name] News River Sectioned Sample",
+  "description": "[Your Name] News River Sectioned Sample",
+  "services": [
+    "Customizer"
+  ],
+  "title": "[Your Name] News River Sectioned Sample"
+}

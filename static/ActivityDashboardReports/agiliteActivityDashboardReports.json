@@ -1,0 +1,24 @@
+{
+  "extensions": [
+    {
+      "path": "communities",
+      "application": "Activity Dashboard Reports",
+      "payload": {
+        "include-files": [
+          "ActivityDashboardReports/agiliteCore.js",
+          "ActivityDashboardReports/chart.js",
+          "ActivityDashboardReports/xml2json.js",
+          "ActivityDashboardReports/agiliteActivityDashboardReports.js"
+        ]
+      },
+      "name": "Activity Dashboard Reports Extension",
+      "type": "com.ibm.customizer.ui"
+    }
+  ],
+  "name": "Activity Dashboard Reports",
+  "description": "Uses Chart.js to create graphical charts in the Community's Rich Content widget, that reports on the logged in user's Active and Completed To Do items",
+  "services": [
+    "Customizer"
+  ],
+  "title": "Activity Dashboard Reports"  
+}

@@ -1,0 +1,23 @@
+{
+  "extensions": [
+    {
+      "payload": {
+        "match": {
+          "user-name":"[Your Name]",
+          "url": "homepage"
+        },
+        "include-files": [
+          "helloWorld/helloWorld.user.js"
+        ]
+      },
+      "name": "[Your Name] Hello World Extension",
+      "type": "com.ibm.homepage"
+    }
+  ],
+  "name": "[Your Name] Hello World Homepage Customizations",
+  "description": "[Your Name] Hello World Homepage Customization",
+  "services": [
+    "Muse"
+  ],
+  "title": "[Your Name] Hello World Homepage Customization"
+}
